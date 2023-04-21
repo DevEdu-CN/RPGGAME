@@ -1,0 +1,2 @@
+rpggame.Player
+rpggame.Creature
